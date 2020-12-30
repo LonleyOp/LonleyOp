@@ -1,5 +1,5 @@
 # Hey I am Sambit. A discord bot and website developer 👋 
-![](https://komarev.com/ghpvc/?username=Sambit79801&style=flat) </br>
+![](https://komarev.com/ghpvc/?username=LonleyOp&style=flat) </br>
   Hi everyone </br>
 
 • I am developer from India </br>
@@ -9,6 +9,6 @@
 Languages that i use:- </br>
 • Javacript <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="20" height="20"> </br>
 •  HTML   <img src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" width="20" height="20"> </br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sambit79801&layout=compact&theme=radical)
-![Sambit's github stats](https://github-readme-stats.vercel.app/api?username=Sambit79801&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LonleyOp&layout=compact&theme=radical)
+![Sambit's github stats](https://github-readme-stats.vercel.app/api?username=LonleyOp&show_icons=true&theme=radical)
 
